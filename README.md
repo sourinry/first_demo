@@ -1,2 +1,3 @@
 # first_demo
-this is my first interection with git repository.
+This is my first interaction with the git repository.
+Author:sourin roy
